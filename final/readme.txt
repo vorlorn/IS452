@@ -1,4 +1,4 @@
-This project can collects tweets in one hashtag, and analysis the emotion of the text.
+This project can collect tweets in one hashtag, and analysis the emotion of the text.
 
 This sentiment analysis is based on Sentiment Analysis Dataset download from here(http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/) and NTLK(http://ntlk.org).
 
@@ -32,3 +32,5 @@ The project uses these datasets:
      University of Michigan Sentiment Analysis competition on Kaggle
      Twitter Sentiment Corpus by Niek Sanders
    It contains 1,578,627 classified tweets, each row is marked as 1 for positive sentiment and 0 for negative sentiment.
+
+(Note: This dataset is too large for GitHub. To use it in textprocess.py, you should include this dataset into dataset/.)
